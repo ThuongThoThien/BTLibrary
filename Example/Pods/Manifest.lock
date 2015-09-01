@@ -1,0 +1,14 @@
+PODS:
+  - BTLibrary (0.1.0)
+
+DEPENDENCIES:
+  - BTLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  BTLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BTLibrary: a73e8d16835527986e1038817f968c3372a490ea
+
+COCOAPODS: 0.38.2

@@ -11,7 +11,7 @@
 @implementation BTLibrary
 
 -(void) whatOnYourMind:(NSString *) yourThought {
-    NSLog(yourThought);
+    NSLog(@"User thought: %@",yourThought);
 }
 
 @end

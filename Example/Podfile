@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'BTLibrary_Example', :exclusive => true do
+  pod "BTLibrary", :path => "../"
+end
+
+target 'BTLibrary_Tests', :exclusive => true do
+  pod "BTLibrary", :path => "../"
+
+  
+end
